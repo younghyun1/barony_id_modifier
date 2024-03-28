@@ -1,6 +1,6 @@
-####CK3 Barony ID modifier.
+#### CK3 Barony ID modifier.
 
-##How to Build
+## How to Build
 Install Rust,
 ```
 git clone https://github.com/younghyun1/barony_id_modifier.git
@@ -12,7 +12,7 @@ cargo build --release
 
 This will create an executable in the directory ./target/release/.
 
-##How to Use
+## How to Use
 Please refer to
 ```
 bidm --help
