@@ -4,6 +4,7 @@ use anyhow::{anyhow, Result};
 use std::fs::{write, File};
 use std::io::Read;
 use std::str::FromStr;
+use std::time::Instant;
 
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
@@ -26,7 +27,7 @@ struct Args {
 }
 
 fn main() -> Result<()> {
-    let start = std::time::Instant::now();
+    let start: Instant = std::time::Instant::now();
     let args: Args = Args::parse();
 
     let mut file = match File::open(&args.filepath) {
@@ -75,7 +76,18 @@ fn main() -> Result<()> {
                 // Attempt to modify the number if it's outside brackets
                 if let Ok(num) = u32::from_str(&current_token) {
                     if num >= start_range && num <= end_range {
-                        let res = modify_fn(num, args.count).unwrap_or(num);
+                        let res = match modify_fn(num, args.count) {
+                            Some(num) => num,
+                            None => {
+                                println!("Over/underflow detected; cannot {} {} to {}.", if &args.inc == "i" {
+                                    "add"
+                                } else {
+                                    "subtract"
+                                }, args.count, num);
+
+                                return Err(anyhow!("Overflow/underflow detected."));
+                            }
+                        };
                         result.push_str(&res.to_string());
                     } else {
                         result.push_str(&current_token);

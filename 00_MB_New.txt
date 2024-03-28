@@ -1,0 +1,3808 @@
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
+
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
+#
+
+39904 = {	#GARNICH
+	holding = city_holding
+}
+
+39905 = {	#ARLON
+	culture = frankish
+	790.1.1 = { culture = french }
+	1250.1.1 = { culture = lorrainian }
+	religion = catholic
+	holding = castle_holding
+}
+
+39906 = {	#MESSANCY
+	holding = none
+}
+
+39907 = {	#PALISEUL
+	holding = none
+}
+
+39908 = {	#AVESNES
+	holding = city_holding
+}
+
+39909 = {	#CHASTEL
+	holding = city_holding
+}
+
+39910 = {	#MORTAGNE
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39911 = {	#AZINCOURT
+	holding = city_holding
+}
+
+39912 = {	#DOWAAI
+	holding = city_holding
+}
+
+39913 = {	#BAPAUME
+	holding = none
+}
+
+39914 = {	#DEVEREN
+	holding = church_holding
+}
+
+39915 = {	#HAZEBROEK
+	holding = none
+}
+
+39916 = {	#TOERKONJE
+	holding = city_holding
+}
+
+39917 = {	#WERVIK
+	holding = city_holding
+}
+
+39918 = {	#KASSEL
+	holding = city_holding
+}
+
+39919 = {	#POPERINGE
+	holding = city_holding
+}
+
+39920 = {	#DIKSMUIDE
+	holding = none
+	975.1.1 = {
+		holding = city_holding
+	}
+}
+
+39921 = {	#LEUZE
+	holding = church_holding
+}
+
+39922 = {	#TIELT
+	holding = none
+	900.1.1 = {
+		holding = city_holding
+	}
+}
+
+39923 = {	#DEINZE
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39924 = {	#SINT-NIKLAAS
+	holding = none
+}
+
+39925 = {	#WAREGEM
+	holding = none
+}
+
+39926 = {	#OUDENAARDE
+	holding = none
+}
+
+39927 = {	#GERAARDSBERGEN
+	holding = city_holding
+}
+
+39928 = {	#DENDERMONDE
+	holding = none
+}
+
+##c_aalst
+39929 = {	#AALST
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+39930 = {	#ASSE
+	holding = none
+}
+
+39931 = {	#LONDERZEEL
+	holding = none
+}
+
+39932 = {	#MECHELEN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+	1250.1.1 = {
+		culture = flemish
+	}
+}
+
+39933 = {	#LIER
+	holding = none
+}
+
+39934 = {	#HOOGSTRATEN
+	holding = none
+}
+
+39935 = {	#GOES
+	holding = none
+}
+
+39936 = {	#ZIERIKZEE
+	holding = none
+}
+
+39937 = {	#GEERTRUIDENBERG
+	holding = city_holding
+}
+
+39938 = {	#WOUDRICHEM
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39939 = {	#HALLE
+	holding = none
+}
+
+39940 = {	#SOIGNIES
+	holding = none
+	1160.1.1 = {
+		holding = city_holding
+	}
+}
+
+39941 = {	#NIJVEL
+	holding = church_holding
+	#750.1.1 = {
+	#	special_building_slot = villers_abbey_01
+	#}
+	#1125.1.1 = {
+	#	special_building = villers_abbey_01
+	#}
+}
+
+39942 = {	#FLORENNES
+	holding = none
+}
+
+39943 = {	#DINANT
+	holding = city_holding
+}
+
+39944 = {	#ROCHEFORT
+	holding = none
+}
+
+39945 = {	#ANDENNE
+	holding = none
+}
+
+39946 = {	#DURBUY
+	holding = none
+}
+
+39947 = {	#FERRIERE
+	holding = city_holding
+}
+
+39948 = {	#STAVELOT
+	culture = frankish
+	790.1.1 = { culture = french }
+	1200.1.1 = { culture = walloon }
+	religion = catholic
+	holding = church_holding
+	#648.1.1 = {
+	#	special_building = stavelot_abbey_01
+	#}
+}
+
+39949 = {	#MALMEDY
+	holding = church_holding
+}
+
+39950 = {	#SANKT VITH
+	holding = none
+	1000.1.1 = {
+		holding = city_holding
+	}
+}
+
+39951 = {	#EUPEN
+	holding = city_holding
+}
+
+39952 = {	#VERVIERS
+	holding = city_holding
+}
+
+39953 = {	#WAREMME
+	holding = none
+}
+
+39954 = {	#GELDENAKEN
+	holding = none
+}
+
+39955 = {	#HEERLEN
+	holding = none
+}
+
+39956 = {	#TONGEREN
+	holding = city_holding
+}
+
+39957 = {	#LOON
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = brabantian
+	}
+}
+
+39958 = {	#SINT-TRUIDEN
+	holding = church_holding
+}
+
+39959 = {	#LEEUW
+	holding = none
+}
+
+39960 = {	#TIENEN
+	holding = church_holding
+}
+
+39961 = {	#AARSCHOT
+	holding = city_holding
+}
+
+39962 = {	#DIEST
+	holding = none
+}
+
+39963 = {	#HASSELT
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39964 = {	#BREE
+	holding = none
+}
+
+39965 = {	#HOORN
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39966 = {	#ROERMOND
+	holding = none
+}
+
+39967 = {	#VENLO
+	holding = none
+}
+
+39968 = {	#VENRAY
+	holding = none
+}
+
+39969 = {	#DEURNE
+	holding = city_holding
+}
+
+39970 = {	#WEERT
+	holding = none
+}
+
+39971 = {	#ARENDONK
+	holding = none
+}
+
+39972 = {	#GRAVE
+	holding = city_holding
+}
+
+39973 = {	#SINT-OEDENRODE
+	holding = none
+}
+
+39974 = {	#DEN BOSCH
+	culture = low_frankish
+	religion = catholic
+	holding = castle_holding
+	1150.1.1 = {
+		culture = dutch
+	}
+}
+
+39975 = {	#DEN HAAG
+	holding = none
+	1050.1.1 = {
+		holding = city_holding
+	}
+}
+
+39976 = {	#OUDERKERK
+	culture = frisian
+	religion = catholic
+	holding = castle_holding
+}
+
+39977 = {	#NAARDEN
+	holding = none
+}
+
+39978 = {	#WOERDEN
+	holding = none
+}
+
+39979 = {	#BAARN
+	holding = none
+}
+
+39980 = {	#LEERDAM
+	holding = none
+}
+
+39981 = {	#DORESTAD
+	holding = city_holding
+	900.1.1 = {
+		holding = none
+	}
+}
+
+39982 = {	#BARNEVELD
+	holding = city_holding
+}
+
+39983 = {	#ELBURG
+	holding = none
+}
+
+39984 = {	#DEVENTER
+	holding = city_holding
+}
+
+9985 = {	#DOETINCHEM
+	holding = none
+	1150.1.1 = {
+		holding = city_holding
+	}
+}
+
+9986 = {	#HEIST-OP-DEN-BERG
+	holding = city_holding
+}
