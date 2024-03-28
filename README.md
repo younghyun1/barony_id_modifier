@@ -18,4 +18,4 @@ bidm --help
 ```
 
 ## Tips and Tricks
-Callous, Aachen Cathedral, and the second-to-last perk in the Theologian tree gives -65% Tyranny Gain Reduction. Combine with 'Pursuit of Power' tenet to get -115% Tyranny Gain Reduction.
+Callous, Aachen Cathedral, and the second-to-last perk in the Theologian tree gives -65% Tyranny Gain Reduction. Combine with 'Pursuit of Power' tenet to get -115% Tyranny Gain Reduction. Exchange all your legitimacy for a full-realm administrative rationalization.
