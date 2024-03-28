@@ -1,6 +1,6 @@
 [package]
 name = "bidm"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 license-file = "LICENSE"
 description = "Increments CK3 barony IDs. Use on extracted sections only, as it will mess with all (ID) = {something} formats."

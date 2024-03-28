@@ -18,7 +18,7 @@ struct Args {
     inc: String,
 
     // Range of baronies to be incremented/decremented. Must be formatted like: 200 300
-    #[arg(short, long, default_value = "0 10000000", help = "Range of baronies to be inc/dec'd. Format like \"200 300\"")]
+    #[arg(short, long, default_value = "0 4294967295", help = "Range of baronies to be inc/dec'd. Format like \"200 300\"")]
     range: String,
 
     // Number to increment/decrement by
