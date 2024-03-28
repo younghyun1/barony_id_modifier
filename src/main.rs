@@ -79,7 +79,11 @@ fn main() -> Result<()> {
                         let res = match modify_fn(num, args.count) {
                             Some(adj_num) => adj_num,
                             None => {
-                                println!("Over/underflow detected; cannot {} {} {} {}. Number not adjusted.", if &args.inc == "i" {
+                                println!("{} detected; cannot {} {} {} {}. Number not adjusted.", if &args.inc == "i" {
+                                    "Overflow"
+                                } else {
+                                    "Underflow"
+                                }, if &args.inc == "i" {
                                     "add"
                                 } else {
                                     "subtract"
