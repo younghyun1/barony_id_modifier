@@ -9,7 +9,7 @@ go inside the directory on a terminal and then
 ```
 cargo build --release
 ```
-This will create an executable in the directory barony_id_modifier/target/release/
+This will create an executable in the directory barony_id_modifier/target/release/ on all platforms.
 
 ## How to Use
 Please refer to
