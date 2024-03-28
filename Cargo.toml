@@ -1,9 +1,26 @@
 [package]
-name = "barony_id_modifier"
+name = "bidm"
 version = "0.1.0"
 edition = "2021"
+license-file = "LICENSE"
+description = "Increments CK3 barony IDs; overengineered to hell."
+homepage = "https://www.linkedin.com/in/younghyun-chi-a60b59a9/"
+repository = ""
+readme = "README.md"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+debug = false
+incremental = false
+strip = true
+panic = "unwind"
+
+[profile.dev]
+debug = true
 
 [dependencies]
-clap = "4.5.4"
+anyhow = "1.0.81"
+clap = { version = "=4.5.4", features = ["derive"] }
+
