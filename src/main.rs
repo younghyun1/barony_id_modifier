@@ -79,13 +79,11 @@ fn main() -> Result<()> {
                         let res = match modify_fn(num, args.count) {
                             Some(num) => num,
                             None => {
-                                println!("Over/underflow detected; cannot {} {} to {}.", if &args.inc == "i" {
+                                return Err(anyhow!("Over/underflow detected; cannot {} {} to {}.", if &args.inc == "i" {
                                     "add"
                                 } else {
                                     "subtract"
-                                }, args.count, num);
-
-                                return Err(anyhow!("Overflow/underflow detected."));
+                                }, args.count, num));
                             }
                         };
                         result.push_str(&res.to_string());
