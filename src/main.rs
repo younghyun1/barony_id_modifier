@@ -77,13 +77,14 @@ fn main() -> Result<()> {
                 if let Ok(num) = u32::from_str(&current_token) {
                     if num >= start_range && num <= end_range {
                         let res = match modify_fn(num, args.count) {
-                            Some(num) => num,
+                            Some(adj_num) => adj_num,
                             None => {
-                                return Err(anyhow!("Over/underflow detected; cannot {} {} to {}.", if &args.inc == "i" {
+                                println!("Over/underflow detected; cannot {} {} to {}. Number not adjusted.", if &args.inc == "i" {
                                     "add"
                                 } else {
                                     "subtract"
-                                }, args.count, num));
+                                }, args.count, num);
+                                num
                             }
                         };
                         result.push_str(&res.to_string());
